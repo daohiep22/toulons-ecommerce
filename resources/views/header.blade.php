@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="logo pull-left">
-                        <a href="/"><img style="width:35%;" src="toulonslogo.png" alt="" /></a>
+                        <a href="/"><img style="width:60%;" src="toulonslogo.png" alt="" /></a>
                     </div>
                     {{-- <div class="btn-group pull-right">
                         <div class="btn-group">
