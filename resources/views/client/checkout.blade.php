@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="logo pull-left">
-                            <a href="/"><img src="toulonslogo.png" alt="" /></a>
+                            <a href="/"><img style="height:60%;" src="toulonslogo.png" alt="" /></a>
                         </div>
                     </div>
                     <div class="col-sm-8">
