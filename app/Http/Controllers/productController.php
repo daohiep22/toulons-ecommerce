@@ -196,7 +196,6 @@ class productController extends Controller
         //     rename($old_image, 'public/upload/product/' . $product->image);
         // }
         $product->save();
-        $body->save();
         session()->put('message', 'Update product successfully');
         return Redirect::to('dashboard');
     }
