@@ -7,6 +7,10 @@
     <link rel="shortcut icon" type="image/png" href="logo.png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
+    <meta name="robots" content="INDEX, FOLLOW"/>
+    <meta name="keywords" content="toulons ecommerce Đào Hiệp">
+    <meta name="description" content=""Trang web phục vụ nghiên cứu các công nghệ web của Đào Hiệp">
+    <meta name="title" content="Toulons Écommerce">
     <meta name="author" content="">
     <title>Toulons Écommerce</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
